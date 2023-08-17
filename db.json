@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "namePoll": "Greate poll",
+    "questions": [
+      {
+        "question": "It is necessary for you?",
+        "mandatory": true,
+        "answers": ["Yes", "No"]
+      },
+      {
+        "question": "Often pass polls?",
+        "mandatory": false,
+        "answers": ["Yes", "No"]
+      },
+      {
+        "question": "How old are you?",
+        "mandatory": false,
+        "answers": ["18-20", "21-25"]
+      }
+    ],
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "namePoll": "Fantasy poll",
+    "questions": [
+      {
+        "question": "It is necessary for you?",
+        "mandatory": true,
+        "answers": ["Yes", "No"]
+      },
+      {
+        "question": "Often pass polls?",
+        "mandatory": false,
+        "answers": ["Yes", "No"]
+      },
+      {
+        "question": "How old are you?",
+        "mandatory": false,
+        "answers": ["18-20", "21-25"]
+      }
+    ],
+    "status": "active"
+  },
+  {
+    "id": 3,
+    "namePoll": "Greate poll",
+    "questions": [
+      {
+        "question": "It is necessary for you?",
+        "mandatory": true,
+        "answers": ["Yes", "No"]
+      },
+      {
+        "question": "Often pass polls?",
+        "mandatory": false,
+        "answers": ["Yes", "No"]
+      },
+      {
+        "question": "How old are you?",
+        "mandatory": false,
+        "answers": ["18-20", "21-25"]
+      }
+    ],
+    "status": "draft"
+  },
+  {
+    "id": 4,
+    "namePoll": "Fantasy poll",
+    "questions": [
+      {
+        "question": "It is necessary for you?",
+        "mandatory": true,
+        "answers": ["Yes", "No"]
+      },
+      {
+        "question": "Often pass polls?",
+        "mandatory": false,
+        "answers": ["Yes", "No"]
+      },
+      {
+        "question": "How old are you?",
+        "mandatory": false,
+        "answers": ["18-20", "21-25"]
+      }
+    ],
+    "status": "closed"
+  },
+  {
+    "id": 5,
+    "namePoll": "Greate poll",
+    "questions": [
+      {
+        "question": "It is necessary for you?",
+        "mandatory": true,
+        "answers": ["Yes", "No"]
+      },
+      {
+        "question": "Often pass polls?",
+        "mandatory": false,
+        "answers": ["Yes", "No"]
+      },
+      {
+        "question": "How old are you?",
+        "mandatory": false,
+        "answers": ["18-20", "21-25"]
+      }
+    ],
+    "status": "active"
+  },
+  {
+    "id": 6,
+    "namePoll": "Fantasy poll",
+    "questions": [
+      {
+        "question": "It is necessary for you?",
+        "mandatory": true,
+        "answers": ["Yes", "No"]
+      },
+      {
+        "question": "Often pass polls?",
+        "mandatory": false,
+        "answers": ["Yes", "No"]
+      },
+      {
+        "question": "How old are you?",
+        "mandatory": false,
+        "answers": ["18-20", "21-25"]
+      }
+    ],
+    "status": "active"
+  },
+  {
+    "id": 7,
+    "namePoll": "Greate poll",
+    "questions": [
+      {
+        "question": "It is necessary for you?",
+        "mandatory": true,
+        "answers": ["Yes", "No"]
+      },
+      {
+        "question": "Often pass polls?",
+        "mandatory": false,
+        "answers": ["Yes", "No"]
+      },
+      {
+        "question": "How old are you?",
+        "mandatory": false,
+        "answers": ["18-20", "21-25"]
+      }
+    ],
+    "status": "draft"
+  },
+  {
+    "id": 8,
+    "namePoll": "Fantasy poll",
+    "questions": [
+      {
+        "question": "It is necessary for you?",
+        "mandatory": true,
+        "answers": ["Yes", "No"]
+      },
+      {
+        "question": "Often pass polls?",
+        "mandatory": false,
+        "answers": ["Yes", "No"]
+      },
+      {
+        "question": "How old are you?",
+        "mandatory": false,
+        "answers": ["18-20", "21-25"]
+      }
+    ],
+    "status": "closed"
+  }
+]
